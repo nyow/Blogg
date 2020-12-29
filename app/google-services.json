@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "125561255332",
+    "firebase_url": "https://blog-app-27de9.firebaseio.com",
+    "project_id": "blog-app-27de9",
+    "storage_bucket": "blog-app-27de9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125561255332:android:9e695ccd5e02d23d",
+        "android_client_info": {
+          "package_name": "com.example.vader.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125561255332-9m97j43i1v1ghp71rsdrm5mqmvr9r6cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9iclAPbDO5PLky2TyfEosg6AxPqE6TzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
